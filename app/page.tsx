@@ -248,7 +248,7 @@ export default function Home() {
                   />
                 </div>
                 <div className="absolute -bottom-6 -right-6 bg-gradient-to-r from-blue-500 to-cyan-500 text-white px-6 py-3 rounded-xl font-semibold shadow-lg">
-                  <div className="text-2xl font-bold">5+ Years</div>
+                  <div className="text-2xl font-bold">2+ Years</div>
                   <div className="text-sm">Experience</div>
                 </div>
               </div>
