@@ -237,16 +237,6 @@ export default function Home() {
                   My passion lies in solving complex problems with elegant, clean code and staying 
                   at the forefront of web technologies to deliver cutting-edge solutions.
                 </p>
-                <div className="grid grid-cols-2 gap-4">
-                  <div className="bg-white/5 rounded-lg p-4 border border-white/10">
-                    <div className="text-2xl font-bold text-white">50+</div>
-                    <div className="text-gray-400 text-sm">Projects Completed</div>
-                  </div>
-                  <div className="bg-white/5 rounded-lg p-4 border border-white/10">
-                    <div className="text-2xl font-bold text-white">98%</div>
-                    <div className="text-gray-400 text-sm">Client Satisfaction</div>
-                  </div>
-                </div>
               </div>
               
               <div className="relative">
