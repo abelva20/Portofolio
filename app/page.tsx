@@ -62,7 +62,7 @@ export default function Home() {
       description: "Responsive corporate website showcasing services",
       technologies: ["React", "Node.js", "MongoDB"],
       image: "Screenshot 2026-01-06 134155.png",
-      result: "self project"
+      result: "https://dopeemin-studio.vercel.app/"
     },
     {
       title: "Ai UI/UX Generated Website",
